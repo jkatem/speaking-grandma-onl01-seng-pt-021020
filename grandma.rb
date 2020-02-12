@@ -21,6 +21,7 @@ def speak_to_grandma(phrase = 'I LOVE GRANDMA')
     return 'NO, NOT SINCE 1938!'
   elsif phrase == 'WHAT'
     return 'NO, NOT SINCE 1938!'
+  end
 end
 
 # def speak_to_grandma(phrase = "I LOVE GRANDMA!")
